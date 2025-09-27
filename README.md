@@ -9,4 +9,7 @@ I’m not sure why, and I suspect the activation function isn’t a big factor f
 
 
 act(x) = sigmoid(x) + a·x
+
+
+
 a = (1/10000)^(1/epoch) and finist setting is 0
