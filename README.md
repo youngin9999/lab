@@ -12,4 +12,6 @@ I’m not sure why, and I suspect the activation function isn’t a big factor f
 <img width="703" height="70" alt="image" src="https://github.com/user-attachments/assets/d9665996-f419-41c3-b8b8-e3b023165da4" />
 
 
-a= 
+\[
+a \;=\; \left(\frac{1}{10000}\right)^{\tfrac{\text{present epoch}}{\text{total epoch}}}
+\]
