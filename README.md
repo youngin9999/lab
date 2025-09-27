@@ -8,10 +8,5 @@ The training ran successfully, but the final accuracy was about the same as with
 I’m not sure why, and I suspect the activation function isn’t a big factor for this setup.
 
 
-
-<img width="703" height="70" alt="image" src="https://github.com/user-attachments/assets/d9665996-f419-41c3-b8b8-e3b023165da4" />
-
-
-\[
-a \;=\; \left(\frac{1}{10000}\right)^{\tfrac{\text{present epoch}}{\text{total epoch}}}
-\]
+act(x) = sigmoid(x) + a·x
+a = (1/10000)^(1/epoch) and finist setting is 0
