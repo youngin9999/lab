@@ -7,4 +7,9 @@ So I tried an activation of sigmoid(x) + f(x), where f(x) = a·x and a decays to
 The training ran successfully, but the final accuracy was about the same as with ReLU.
 I’m not sure why, and I suspect the activation function isn’t a big factor for this setup.
 
-<img width="253" height="58" alt="image" src="https://github.com/user-attachments/assets/79ea5426-60ff-4e81-9a11-e6bf9bb1a561" />
+
+
+<img width="703" height="70" alt="image" src="https://github.com/user-attachments/assets/d9665996-f419-41c3-b8b8-e3b023165da4" />
+
+
+a= 
